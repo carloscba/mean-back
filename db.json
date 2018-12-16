@@ -1,0 +1,22 @@
+{
+  "ids": {
+    "User": 2,
+    "AccessToken": 2,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "Country": 1
+  },
+  "models": {
+    "User": {
+      "1": "{\"realm\":\"Carlos\",\"username\":\"Carlos\",\"password\":\"$2a$10$UoB2KrzDTa2ylRpmRHb4NeY88rpDTj4Hrr5a5Mzog566b778e5Qrm\",\"email\":\"carloscba1@gmail.com\",\"emailVerified\":false,\"id\":1}"
+    },
+    "AccessToken": {
+      "wOCmkKNm0kfZbwnynGCwzcu8LtmlHcoTT8eA53yHKgeEsS8fL4QGpxB03bmIOUnt": "{\"id\":\"wOCmkKNm0kfZbwnynGCwzcu8LtmlHcoTT8eA53yHKgeEsS8fL4QGpxB03bmIOUnt\",\"ttl\":1209600,\"created\":\"2018-12-16T19:50:17.207Z\",\"userId\":1}"
+    },
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "Country": {}
+  }
+}
