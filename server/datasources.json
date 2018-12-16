@@ -3,4 +3,4 @@
     "connector": "loopback-connector-mongodb",
     "url": "mongodb://mean:m21nb1ck@ds135714.mlab.com:35714/heroku_5nwl0hcn"
   }
-}
+}  
