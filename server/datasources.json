@@ -1,6 +1,6 @@
 {
   "db": {
     "connector": "loopback-connector-mongodb",
-    "url": "${MONGODB_URL}"
+    "url": "${MONGODB_URI}"
   }
 }  
