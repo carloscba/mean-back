@@ -1,5 +1,5 @@
 var app = require('../server');
-
+/*
 app.post('/api/Users/login', function (req, res) {
 
     app.models.User.login({
@@ -16,3 +16,4 @@ app.post('/api/Users/login', function (req, res) {
         });
     });
 });
+*/
